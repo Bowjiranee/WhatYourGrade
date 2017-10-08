@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">What\'s Your Grade</string>
+    <string name="What_grade">คุณได้เกรดอะไร?</string>
+    <string name="input">Enter your name and score</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="calculate">find grade</string>
+    <string name="exit">exit</string>
+    <string name="RealName">Jiranee Chawirut</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">คุณได้เกรดอะไร?</string>
+    <string name="What_grade">คุณได้เกรดอะไร?</string>
+    <string name="input">ป้อนชื่อเเละคะเเนนของคุณ</string>
+    <string name="name">ชื่อ</string>
+    <string name="score">คะเเนน</string>
+    <string name="calculate">คำนวณเกรด</string>
+    <string name="exit">ออก</string>
+    <string name="RealName">จิราณี ฉวีรัตน์</string>
+</resources>
